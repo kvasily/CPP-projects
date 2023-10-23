@@ -69,3 +69,4 @@ void rules(string array1[5]) {
 
         }
 }
+
