@@ -3,8 +3,6 @@
 using namespace std;
 
 
-
-
 bool isLoggedIn () 
 {
     string username, password, un, pw;
